@@ -1,0 +1,6 @@
+config SPORT_PRESTART_ANIM_FPS
+    int "animation FPS of the page SportPrestartContainer"
+    range 0 60
+    default 9
+    ---help---
+      animation FPS of the page SportPrestartContainer

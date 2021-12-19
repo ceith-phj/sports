@@ -1,0 +1,98 @@
+{"config": {
+        "order": 100,
+        "global": "error"
+    },
+    "projects": {
+        "madrid": {
+            "gapp": "prototype/resources/480x480/designer/Sports.gapp",
+            "images": "prototype/resources/480x480/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "sport480": {
+            "gapp": "prototype/resources/480x480/designer/Sports.gapp",
+            "images": "prototype/resources/480x480/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "andes": {
+            "gapp": "prototype/resources/454x454/designer/Sports.gapp",
+            "images": "prototype/resources/454x454/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "verona": {
+            "gapp": "prototype/resources/454x454/designer/Sports.gapp",
+            "images": "prototype/resources/454x454/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "zurich": {
+            "gapp": "prototype/resources/390x450/designer/Sports.gapp",
+            "images": "prototype/resources/390x450/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets",
+            "resize": 0
+        },
+        "vienna": {
+            "gapp": "prototype/resources/416x416/designer/Sports.gapp",
+            "images": "prototype/resources/416x416/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "cannes": {
+            "gapp": "prototype/resources/306x354/designer/Sports.gapp",
+            "images": "prototype/resources/306x354/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "bled": {
+            "resize": 0,
+            "gapp": "prototype/resources/302x320/designer/Sports.gapp",
+            "images": "prototype/resources/302x320/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "sofia": {
+            "gapp": "prototype/resources/480x480/designer/Sports.gapp",
+            "images": "prototype/resources/480x480/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "provence": {
+            "resize": 0,
+            "gapp": "prototype/resources/336x384/designer/Sports.gapp",
+            "images": "prototype/resources/336x384/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        },
+        "leiden": {
+            "gapp": "prototype/resources/416x416/designer/Sports.gapp",
+            "images": "prototype/resources/416x416/images",
+            "fonts": "prototype/fonts",
+            "texts": "prototype/translations/translations.csv",
+            "attributes": "prototype/translations/attributes.csv",
+            "assets": "assets"
+        }
+    }
+}
