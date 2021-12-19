@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modeltemplate>
+  <template class="com.crank.gdt.templates.generators.ControlTemplate" name="SBCCheckBoxButton" version="1">
+    <description>checkbox</description>
+    <data>
+      <list>
+        <list>
+          <byte-array>UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAJAAkAbW9kZWwuZ2RlVVQFAAEAAAAA7VnRbtowFH2f
+tH+Ior0mIYxQOgFVizZtUrWHjU3bE3JsJ1gYO0tMSjvt35eEQuOQ4EALzQO8EOFz7jXnHsfOTf9q
+OadajMOIcDbQbbOla5hBjgjzB/qP8Sejp2uRAAwByhke6IzrV8O3b/oh50KbDfT0W9fEQKd68rOW
+fPqzOB14jJmNEX1o961ZLCOgCKlMzQ2uiJE+HE0xnN3w5c1CCM5yUXLg5TpLq3z8XjF+tx53uuWA
+qQrgEUUKAAWJcQZyZTVyIB6APwsVKCYRcakKBdNygRyuYl5UNe7Sx0pYJVMBk5IKSoDy4bJChzj6
+ggqTKIarjpZDoXgSrIOSuV8RUibETwTg48i6I8jHwnIz01kw9aDLl5uLCePhHFAzYFXhS34uClyq
+d4iXQiFqClHKCkK/Ksw2cjcuh80VyxxhJnD4e4e8OaKicgV0voLIpYoUMnGVCSWGNouW3iLtcIbS
+NM+T7ddZtv1ku6bBFBxbNMKECWokkunx+tbfdpwmSnfLIRDJVmzen0C/w5RrpOU2ui3Puu2j25hQ
+fGzFXM6pKdSJZHpcddjZoryGbt/JAzanp7jHRUmmwwxnFI+bW5zXUO4bF9lKPW+q++n2FcyPu1KV
+hDKS8theTl4f4S3VHPevYKwP3/2FnImQ0w/Zc8q/JpbzJw4FgYBq15T4R18MMaiRReZunrLGPGii
+gNdRgKFqK36ZvQvUSSUHaPbu9ZmH5CFZIqey3/QZ9rvFnrLKr3YCuDufAA5QLrntnebQGdXIJPOb
+vW6zsxNedSVOIeBh0jXSdLccoMx4VW3LAveZzqNJuklUJ58c5Yj+292urewtF3AbTb+kzdfd2Kw/
+SpCKUavXCqCq1Zog1J1WmJ/QaAQodQGc7f4bKUmExF/T/MROgi9g1ePfnooeufvrLRg8xfNWJFS3
+JJm42eAnU8AQxeNU0Y8xVrZXXsT5tTwn8DxQmC6DiCdLddt2F4KLrnEBgG107EtsAO9924C202v3
+ei0XeWV2yEcjT9FanufYdtcxuq1ex+i0oWe4MAnZQZ6DEcDw0tt6x5V7dbe67Fvpe7/k4j9QSwcI
+2XFn8SMDAABAHAAAUEsBAhQAFAAICAgAAAAhANlxZ/EjAwAAQBwAAAkACQAAAAAAAAAAAAAAAAAA
+AG1vZGVsLmdkZVVUBQABAAAAAFBLBQYAAAAAAQABAEAAAABjAwAAAAA=</byte-array>
+        </list>
+        <map>
+          <entry>
+            <string>images/widget/button/checkbox/checkbox_normal.png</string>
+            <byte-array>iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAAAXNSR0IArs4c6QAAAERlWElmTU0A
+KgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAOKADAAQAAAAB
+AAAAOAAAAAANV2hTAAABnklEQVRoBe2bwWrCUBBFk2DrSgtSKAj+/4cJglCE6spWTO+JSVAbOt05
+mc6FQX0ZcM67McniWha/qK7rZx2eq2aqqWqiqlSP1FlfflIdVQfVvizLT70OqhxaFdiT1t9Ui6Hj
+Dtd2mmkr0K/72X4ACu5FTSvVo526n9X6jLNrQX5cN94ACu5VB5fXDSN8vxHkezd371Lr3Njh4Fq2
+LA1jA6gFfnOcllG0apn63xkXlN7NAJSwwFRUIuVWMJarJTP/VQvYIOU+F1VzALmJR9UMQJ5QomoK
+II9fUTUBkIqqKjJcY1oCjv3cTQfTQec7kKeoc4PM8dJBc4ucN6SDzg0yx0sHzS1y3pAOOjfIHC8d
+NLfIeUM66Nwgc7x00Nwi5w3poHODzPHSQXOLnDekg84NMsdLB80tct7wLxwkIRRVZxwk2BZVJwBJ
+7UXVEUAiiVF1AHAflQ62qg2TkreMph1sOIi2qkhXU1hgukRIREpSds1CEBGMbdK/nYOFFkjKbgIA
+EojtU783iV/glNCLG2nu3GvDpDFD6R1k6+bo/1bwDTswW2o+bLWfAAAAAElFTkSuQmCC</byte-array>
+          </entry>
+        </map>
+        <byte-array>iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAIAAAAn5KxJAAAA8klEQVR4nO3asQ6DIBSFYRZcWRxd
+3BhI3//xekwabZWAw7GXm5z/BfhCgSZCCLWmaZrneV3XnHMp5fVwGAIDYTgMiqGrpHMxxmVZnpa1
+AwCMljKl9If5uxMYwNSVmHZr3jmQKnNprar3M69YEIP84tcAO9ar+e5pB97nJLKW9NvOrAH30LVt
+V+GYtWb0AzLgL8Ga0Q/IMOx+/w7IYG24m6DsBGUnKDtB2QnKTlB2grITlJ2g7ARlJyg7QdkJyk5Q
+doKy8wN18yHXzadxN5cNbq5v3FyIubli9HRp6+Ya3NPDAk9PNfb1ar63+o9f9gZ8TvQGa3NXQydK
+Q7oAAAAASUVORK5CYII=</byte-array>
+        <list/>
+        <string>015cd4e4-f377-4fac-9707-3aabc7a44268</string>
+        <com.crank.gdt.core.templates.TemplateChangeHistory-array>
+          <com.crank.gdt.core.templates.TemplateChangeHistory>
+            <fParentTemplateId>6216ca76-7aa1-419e-af32-c1582880bdf0</fParentTemplateId>
+            <fModificationList>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuQ2VudGVyWA==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/a#0;Q0NhbGxiYWNr/g;ZnVuY3Rpb24=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuU2NhbGU=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX2ZpbmRleA==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuTG9jYXRpb24ueA==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuUm90YXRpb24=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX3g=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX2FjdGl2ZQ==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuU2l6ZS53</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuQWxwaGE=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuTmFtZQ==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX3dpZHRo</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuTG9jYXRpb24ueQ==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX2hpZGRlbg==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuQ2VudGVyWQ==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuU2l6ZS5o</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuSG9yaXpvbnRhbCBBbGlnbg==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuVGlsZQ==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX3k=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX3ppbmRleA==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX29wYXF1ZQ==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuVmVydGljYWwgQWxpZ24=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;cmVzSWQ=</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuTG9hZFNjYWxlZA==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/v;Z3JkX2hlaWdodA==</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuQXNwZWN0</string>
+              <string>c/l;VGVtcG9yYXJ5RWRpdExheWVy/c;Q2hlY2tCb3hCdXR0b24=/r#0;SW1hZ2U=/g;cmUuUm90YXRlQ2VudGVy</string>
+            </fModificationList>
+          </com.crank.gdt.core.templates.TemplateChangeHistory>
+        </com.crank.gdt.core.templates.TemplateChangeHistory-array>
+      </list>
+    </data>
+  </template>
+</modeltemplate>

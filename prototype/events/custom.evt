@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eventdefinitions>
+  <event name="gre.animate.complete.DataChange" type="0x8">
+    <label>DataChange animation complete</label>
+    <description>The animation named DataChange has completed</description>
+  </event>
+  <event name="gre.animate.stop.DataChange" type="0x8">
+    <label>DataChange animation stopped</label>
+    <description>The animation named DataChange has been stopped</description>
+  </event>
+  <event name="layer_yoffset_change" type="0x10"/>
+  <event name="s" type="0x10"/>
+  <event name="scroll_change" type="0x10"/>
+  <event name="timer.countdown_timer" type="0x8">
+    <description>The timer named timer.countdown_timer has fired</description>
+  </event>
+  <event name="timer.tickTimer" type="0x8">
+    <description>The timer named timer.tickTimer has fired</description>
+  </event>
+</eventdefinitions>

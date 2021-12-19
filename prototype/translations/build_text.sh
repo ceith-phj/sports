@@ -1,0 +1,1 @@
+./genlocale translations.csv ./out/ ./out/

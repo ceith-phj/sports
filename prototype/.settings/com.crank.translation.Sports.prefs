@@ -1,0 +1,5 @@
+attribute_db=translations/attributes.csv
+attribute_db_provider=crank.db.csv.singlefile
+eclipse.preferences.version=1
+translation_db=translations/translations.csv
+translation_db_provider=crank.db.csv.singlefile

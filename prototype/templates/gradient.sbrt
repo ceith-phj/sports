@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<rendertemplates>
+	<template label="Gradient" name="gradient">
+		<arguments>
+			<element label="Style" name="style" type="string" default="linear" />
+			<element label="Color Start" name="c1" type="color" default="0x000000" />
+			<element label="Color End"   name="c2" type="color" default="0xffffff" />
+			<element label="Alpha Start" name="a1" type="integer" default="255" />
+			<element label="Alpha End"   name="a2" type="integer" default="255" />
+			<element label="Linear Direction" name="dir" type="string" default="ltr" />
+			<element label="Inner Radius" name="r1" type="integer" default="0" />
+			<element label="Outer Radius" name="r2" type="integer" default="-1" />
+		</arguments>
+	</template>
+</rendertemplates>
+</root>
